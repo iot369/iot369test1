@@ -1,0 +1,22 @@
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\bin\Debug\ECA操作平台.exe.config
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\bin\Debug\ECA操作平台.exe
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\bin\Debug\ECA操作平台.pdb
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.csprojResolveAssemblyReference.cache
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.Properties.Resources.resources
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.csproj.GenerateResource.Cache
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.exe
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.pdb
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.frmMain.resources
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.frmLogIn.resources
+c:\users\xydong\documents\visual studio 2015\Projects\ECA操作平台\ECA操作平台\obj\Debug\ECA操作平台.frmAbout.resources
+C:\Users\xydong\iot369test1\ECA操作平台\bin\Debug\ECA操作平台.exe.config
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.exe
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.pdb
+C:\Users\xydong\iot369test1\ECA操作平台\bin\Debug\ECA操作平台.exe
+C:\Users\xydong\iot369test1\ECA操作平台\bin\Debug\ECA操作平台.pdb
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.csprojResolveAssemblyReference.cache
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.frmAbout.resources
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.frmLogIn.resources
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.frmMain.resources
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.Properties.Resources.resources
+C:\Users\xydong\iot369test1\ECA操作平台\obj\Debug\ECA操作平台.csproj.GenerateResource.Cache
